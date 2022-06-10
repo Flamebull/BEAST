@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x44f5Faf978A2123183B73d8B9c6C7bEAd8562091",
+  "SCAN_LINK": "https://snowtrace.io/address/0x44f5faf978a2123183b73d8b9c6c7bead8562091",
+  "NETWORK": {
+    "NAME": "Avalanche",
+    "SYMBOL": "AVAX",
+    "ID": 43114
+  },
+  "NFT_NAME": "BEASTMAN",
+  "SYMBOL": "BSTM",
+  "MAX_SUPPLY": 20,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "NFTtrade",
+  "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0x44f5faf978a2123183b73d8b9c6c7bead8562091",
+  "SHOW_BACKGROUND": true
+}
